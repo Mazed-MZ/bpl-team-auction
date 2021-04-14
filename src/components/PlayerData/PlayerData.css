@@ -1,0 +1,33 @@
+.playerDraft{
+    display: flex;
+    width: 1000px;
+    border-bottom: 2px solid gray;
+    padding: 5px;
+}
+.playerDraft img{
+    height: 250px;
+    width: 250px;
+    border: 2px solid navy;
+    border-radius: 15px;
+    box-shadow: 1px 1px 10px gray;
+}
+.text h1{
+    color: navy;
+}
+.text h3{
+    font-size: 30px;
+}
+.text{
+    padding: 10px;
+    display: flex;
+}
+.button{
+    margin-left: 200px;
+    margin-top: 80px;
+}
+.button button{
+    width: 150px;
+    height: 80px;
+    font-size: 20px;
+    padding: 10px;
+}

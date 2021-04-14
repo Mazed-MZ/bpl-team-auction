@@ -1,0 +1,106 @@
+[{
+    "name": "David Warner",
+    "id":"101",
+    "country":"Australia",
+    "strike":"215",
+    "img": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170635/david-warner.jpg",
+    "salary": "1500000000"
+  }, {
+    "name": "Hardik Pandya",
+    "id":"102",
+    "country":"India",
+    "strike":"180",
+    "img": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170666/hardik-pandya.jpg",
+    "salary": "2000000000"
+  }, {
+    "name": "Jonny Bairstow",
+    "id":"103",
+    "country":"England",
+    "strike":"150",
+    "img": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170976/jonny-bairstow.jpg",
+    "salary": "1800000000"
+  }, {
+    "name": "Jofra Archer",
+    "id":"104",
+    "strike":"120",
+    "country":"England",
+    "img": "https://cricdaddy.com/wp-content/uploads/2021/02/3502.png",
+    "salary": "1400000000"
+  }, {
+    "name": "AB de Villiers",
+    "id":"105",
+    "strike":"285",
+    "country":"South Africa",
+    "img": "https://pbs.twimg.com/profile_images/681088333066448896/YW2r8Wuw_400x400.png",
+    "salary": "3000000000"
+  }, {
+    "name": "Shakib Al Hasan",
+    "id":"106",
+    "strike":"225",
+    "country":"Bangladesh",
+    "img": "https://a.espncdn.com/i/headshots/cricket/players/full/56143.png",
+    "salary": "1500000000"
+  }, {
+    "name": "Jusprit Bumrah",
+    "id":"107",
+    "strike":"115",
+    "country":"India",
+    "img": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170685/jasprit-bumrah.jpg",
+    "salary": "1800000000"
+  }, {
+    "name": "Andre Russell",
+    "id":"108",
+    "strike":"185",
+    "country":"West Indise",
+    "img": "https://dailysportsupdates.com/wp-content/uploads/2019/04/Andre-Russell.png",
+    "salary": "1200000000"
+  }, {
+    "name": "Mustafizur Rahman",
+    "id":"109",
+    "strike":"85",
+    "country":"Bangladesh",
+    "img": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170925/mustafizur-rahman.jpg",
+    "salary": "1000000000"
+  }, {
+    "name": "Mitchell Starc",
+    "id":"110",
+    "strike":"105",
+    "country":"Australia",
+    "img": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170643/mitchell-starc.jpg",
+    "salary": "1700000000"
+  }, {
+    "name": "Mushfiqur Rahim",
+    "id":"111",
+    "strike":"230",
+    "country":"Bangladesh",
+    "img": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170916/mushfiqur-rahim.jpg",
+    "salary": "1500000000"
+  }, {
+    "name": "Chris Gayle",
+    "id":"112",
+    "strike":"255",
+    "country":"West Indise",
+    "img": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170801/chris-gayle.jpg",
+    "salary": "2500000000"
+  }, {
+    "name": "Rohit Sharma",
+    "id":"113",
+    "strike":"195",
+    "country":"India",
+    "img": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170658/rohit-sharma.jpg",
+    "salary": "1800000000"
+  }, {
+    "name": "Taskin Ahmed",
+    "id":"114",
+    "strike":"50",
+    "country":"Bangladesh",
+    "img": "https://www.daily-sun.com/assets/news_images/2019/05/11/thumbnails/Taskin.PNG",
+    "salary": "800000000"
+  }, {
+    "name": "Rubel Hossain",
+    "id":"115",
+    "strike":"25",
+    "country":"Bangladesh",
+    "img": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170922/rubel-hossain.jpg",
+    "salary": "700000000"
+  }]
