@@ -10,8 +10,6 @@ function App() {
   const [player, setPlayer] = useState([]);
   const playerInfo = fakeData;
   const handlePlayer = (data) => {
-    // const newPlayer = [...playerInfo]
-    // const samePlayer = newPlayer.find(info => info.id === newPlayer.id)
     setPlayer(data);
   }
 

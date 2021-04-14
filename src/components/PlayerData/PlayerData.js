@@ -6,7 +6,6 @@ import TeamDraft from '../TeamDraft/Team';
 
 
 const PlayerData = (props) => {
-    const [playerData, setPlayerData] = useState({})
     const { name, salary, img } = props.pd;
 
     return (
